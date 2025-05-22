@@ -1,14 +1,20 @@
-**Thrilled to complete Task 2 in my web development journey with *#ApexPlanet*!**
+Description:
+This is a basic HTML website for Apexplanet.The home page includes a navigation bar,a hero banner,and a section displaying different internship opportunities. Each program is shown with an image, title, and short description. The site uses external CSS styling and includes links to a to-do list and contact page 
 
-This milestone focused on building two essential pages that enhance both **functionality** and **user interaction**:
+Features:
 
-* **To-Do List Page** – Designed a user-friendly interface for managing daily tasks with ease and simplicity.
-* **Contact Form Page** – Developed a responsive contact form with fields for name, email, and message to ensure smooth communication.
+Responsive navigation bar
+Hero banner with a title
+Simple navigation menu
+Styled with CSS
+How to Run:
 
-Both pages were crafted using **HTML** and **CSS**, with attention to layout structure, mobile responsiveness, and a clean user experience.
+Open index.html in any modern web browser.
+Technologies Used:
 
-Excited for the next phase—more features, more learning, more creativity!
-
-#ApexPlanet #WebDevelopment
-#ToDoList #ContactForm
-#HTML #CSS #JavaScript #FrontendDevelopment
+HTML5
+CSS3
+JavaScript 
+Image hosting via post images
+Author:
+undabatla Manju 
